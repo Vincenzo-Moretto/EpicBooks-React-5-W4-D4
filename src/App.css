@@ -1,0 +1,21 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.libri {
+  border: 1px solid aqua;
+}
+.libri:hover {
+  transform: scale(1.1);
+}
+
+.arrowup {
+  position: fixed;
+  bottom: 25px;
+  right: 50px;
+  font-size: 50px;
+}
+/* DarkeMode */
+.darkMode {
+  background-color: black;
+}
